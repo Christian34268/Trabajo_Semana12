@@ -1,0 +1,14 @@
+/home/christian/Proyectos/BibliotecaApp/bin/Debug/net8.0/BibliotecaApp
+/home/christian/Proyectos/BibliotecaApp/bin/Debug/net8.0/BibliotecaApp.deps.json
+/home/christian/Proyectos/BibliotecaApp/bin/Debug/net8.0/BibliotecaApp.runtimeconfig.json
+/home/christian/Proyectos/BibliotecaApp/bin/Debug/net8.0/BibliotecaApp.dll
+/home/christian/Proyectos/BibliotecaApp/bin/Debug/net8.0/BibliotecaApp.pdb
+/home/christian/Proyectos/BibliotecaApp/obj/Debug/net8.0/BibliotecaApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/christian/Proyectos/BibliotecaApp/obj/Debug/net8.0/BibliotecaApp.AssemblyInfoInputs.cache
+/home/christian/Proyectos/BibliotecaApp/obj/Debug/net8.0/BibliotecaApp.AssemblyInfo.cs
+/home/christian/Proyectos/BibliotecaApp/obj/Debug/net8.0/BibliotecaApp.csproj.CoreCompileInputs.cache
+/home/christian/Proyectos/BibliotecaApp/obj/Debug/net8.0/BibliotecaApp.dll
+/home/christian/Proyectos/BibliotecaApp/obj/Debug/net8.0/refint/BibliotecaApp.dll
+/home/christian/Proyectos/BibliotecaApp/obj/Debug/net8.0/BibliotecaApp.pdb
+/home/christian/Proyectos/BibliotecaApp/obj/Debug/net8.0/BibliotecaApp.genruntimeconfig.cache
+/home/christian/Proyectos/BibliotecaApp/obj/Debug/net8.0/ref/BibliotecaApp.dll
